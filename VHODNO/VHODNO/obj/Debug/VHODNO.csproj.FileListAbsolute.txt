@@ -1,0 +1,7 @@
+C:\Users\AleksMilev\source\repos\VHODNO\VHODNO\bin\Debug\VHODNO.exe.config
+C:\Users\AleksMilev\source\repos\VHODNO\VHODNO\bin\Debug\VHODNO.exe
+C:\Users\AleksMilev\source\repos\VHODNO\VHODNO\bin\Debug\VHODNO.pdb
+C:\Users\AleksMilev\source\repos\VHODNO\VHODNO\obj\Debug\VHODNO.csprojAssemblyReference.cache
+C:\Users\AleksMilev\source\repos\VHODNO\VHODNO\obj\Debug\VHODNO.csproj.CoreCompileInputs.cache
+C:\Users\AleksMilev\source\repos\VHODNO\VHODNO\obj\Debug\VHODNO.exe
+C:\Users\AleksMilev\source\repos\VHODNO\VHODNO\obj\Debug\VHODNO.pdb
